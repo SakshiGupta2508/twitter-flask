@@ -124,7 +124,7 @@ Detailed documentation of the APIs can be accessed through
 
 Your Name - [Sakshi](https://www.linkedin.com/in/sakshi-gupta-0aa978140/)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Twitter Flask](https://github.com/SakshiGupta2508/twitter-flask)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
