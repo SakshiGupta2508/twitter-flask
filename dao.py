@@ -4,7 +4,8 @@ import requests
 # Fetching bearer token
 bearer_token = os.environ.get("BEARER_TOKEN")
 if not bearer_token:
-    bearer_token = "AAAAAAAAAAAAAAAAAAAAAJ4RUgEAAAAARTdp7EDjTMYr%2B52sMMA5%2FmO6KVc%3DFkLdVXdDJiBgUoj49jsNM2vVgINhubIsFz9V0e3Gp0dNiPT9kp"
+    # Insert your bearer token here
+    bearer_token = ""
 
 
 def bearer_auth():
